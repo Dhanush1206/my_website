@@ -1,4 +1,3 @@
-# my_website
 
 <!DOCTYPE html>
 <html>
